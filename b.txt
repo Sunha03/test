@@ -1,5 +1,6 @@
 public void input(){
 }
-
+public void clear(){
+}
 public void delete(){
 }
