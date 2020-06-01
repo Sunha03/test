@@ -4,5 +4,8 @@ public void input(){
 public void update(){
 }
 
+public void hello(){
+}
+
 public void delete(){
 }
